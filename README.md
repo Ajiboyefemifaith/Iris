@@ -1,5 +1,5 @@
 # Iris
-Analysis to compare different types of algorithms to predict Iris species
+ Iris species prediction using different types of algorithm
 
 # Context
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.
