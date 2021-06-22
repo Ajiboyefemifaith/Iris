@@ -17,3 +17,9 @@ Species
 
 # Result
 The Support Vector Machine had an accuracy of 100%, this is the best model.
+
+# Dataset
+This datset was gotten from Kaggle
+
+# Update 
+Principal component analysis and Kmeans clustering has been performed on the dataset to reduce the feautures and to group the flowers into cluster
